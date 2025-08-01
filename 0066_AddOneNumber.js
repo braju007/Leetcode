@@ -12,7 +12,7 @@ function addOneNumber(arr) {
 }
 
 const arr = [1, 2, 3];
-console.log(addOneNumber(arr)); 
+console.log(addOneNumber(arr));
 // Output: [1, 2, 4]
-console.log(addOneNumber([9])); 
+console.log(addOneNumber([9]));
 // [ 1, 0 ]
