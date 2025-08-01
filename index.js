@@ -1,1 +1,1 @@
-console.log("Hello! Leetcode...")
+console.log("Hello! Leetcode...");
